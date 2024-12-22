@@ -65,7 +65,7 @@ We are going to set up the Firebase emulator to be able to load the data locally
    * this is the directory with the `firebase.json` file, you should see that if you type `ls`
 * Run this command, which will start the emulators, and keep your data in `local-data` directory.
 ```sh
-firebase emulators:start --import=./local-data --export-on-exit`
+firebase emulators:start --import=./local-data --export-on-exit
 ```
    * Meaning when you start and stop the emulator your data will persist.
 * Run the app
