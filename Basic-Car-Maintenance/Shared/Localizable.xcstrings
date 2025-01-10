@@ -5242,6 +5242,9 @@
         }
       }
     },
+    "Time Range" : {
+
+    },
     "Title" : {
       "comment" : "Maintenance event title text field header",
       "localizations" : {
